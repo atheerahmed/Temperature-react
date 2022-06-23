@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(202, 218, 243);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container {
+  width: 50rem;
+}
+.color{
+  color: rgb(184, 158, 115)
+}
+
